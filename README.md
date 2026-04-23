@@ -32,6 +32,7 @@ I combine development skills with data analysis to build and improve systems tha
 ![Kotlin](https://img.shields.io/badge/Kotlin-orange)
 ![Java](https://img.shields.io/badge/Java-red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![C](https://img.shields.io/badge/C-lightgreen)
 
 ### Web
 ![HTML5](https://img.shields.io/badge/HTML5-blue)
