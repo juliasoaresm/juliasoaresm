@@ -33,13 +33,14 @@ I combine development skills with data analysis to build and improve systems tha
 ![Java](https://img.shields.io/badge/Java-red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![C](https://img.shields.io/badge/C-lightgreen)
+![Dart](https://img.shields.io/badge/Dart-darkblue).
 
 ### Web
 ![HTML5](https://img.shields.io/badge/HTML5-blue)
 ![CSS3](https://img.shields.io/badge/CSS3-pink)
 
 ###  Databases & Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lightgreen)
 ![MySQL](https://img.shields.io/badge/MySQL-darkblue)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey)
 
