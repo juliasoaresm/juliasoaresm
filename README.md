@@ -1,6 +1,6 @@
 # Hi, I'm Julia Soares Monteiro 
 
- Full Stack Developer | Data & Backend Focus  
+ Full Stack Developer | Product Manager & Co-founder of IasoTech  
  SQL • PostgreSQL • System Analysis • Data Investigation  
  Recife, Brazil  
 
